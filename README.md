@@ -11,10 +11,15 @@
 ## Contents
 
 - [Books](#books)
+- [Talks](#talks)
 
 ---
 
-## Courses
+## Books
 
 - [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+## Talks
+
+- [Anjana Vakil: Immutable data structures for functional JS | JSConf EU 2017](https://www.youtube.com/watch?v=Wo0qiGPSV-s&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=3)
