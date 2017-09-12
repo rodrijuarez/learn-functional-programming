@@ -19,6 +19,7 @@
 
 - [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 ## Talks
 
